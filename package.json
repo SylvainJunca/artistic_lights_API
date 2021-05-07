@@ -31,7 +31,7 @@
     "node-hue-api": "^3.4.0",
     "request": "^2.88.0",
     "source-map-support": "^0.5.12",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
